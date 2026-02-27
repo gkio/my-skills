@@ -1,5 +1,5 @@
 ---
-name: a-philosophy-of-software-design-skills
+name: architector
 description: >-
   Apply John Ousterhout's software design philosophy to fight complexity through
   deep modules, information hiding, strategic programming, and error elimination.
